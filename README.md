@@ -30,7 +30,6 @@ Step 4:
 4.Using a for loop, plot the points using scatter function.
 ## Program:
 ```
-
 Program to implement the multi class classifier.
 Developed by:SOUVIK KUNDU
 RegisterNumber: 212221230105
@@ -50,8 +49,6 @@ for label, _ in counter.items():
 	pyplot.scatter(X[row_ix, 0], X[row_ix, 1], label=str(label))
 pyplot.legend()
 pyplot.show()
-
-
 ```
 
 ## Output:
